@@ -59,6 +59,7 @@ public class Player {
 
     public boolean checkHandForBook() {
     	return false; //stubbed
+    	///edit for merge
     }
 
     //OPTIONAL
