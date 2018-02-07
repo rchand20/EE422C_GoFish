@@ -8,6 +8,7 @@ public class Card {
 	final static int LOW_RANK = 1; //Ace
 	
 	int rank;  //1 is an Ace
+	//edit to try to 
 	Suits suit;
 	
 	public Card() {
